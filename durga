@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 hi
 hlo
+#!/bin/bash
+
+set -xeo pipefail
+touch f1
+>>>>>>> 35bb72d7b78ead88ad58147546cdfda4695fec2d
